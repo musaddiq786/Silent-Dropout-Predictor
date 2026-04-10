@@ -2,6 +2,13 @@
 
 An advanced, machine-learning-powered web application designed to help university faculty identify and support at-risk students before they drop out. 
 
+### 🌐 [Click Here to View the Live AI Dashboard](https://student-analytics-dashboard.streamlit.app/)
+
+**Demo Login Credentials:**
+* **Username:** `admin`
+* **Password:** `password123`
+
+*(Note: Please enter your own Gemini & Twilio API keys in the sidebar to test the AI drafting features)*
 ## 🚀 Features
 * **Predictive Analytics:** Uses a trained Random Forest Classifier to categorize students into High, Medium, or Low risk based on attendance and marks.
 * **Explainable AI (XAI):** Integrates SHAP visualizations so teachers can see exactly *why* the AI flagged a student.
