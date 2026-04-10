@@ -1,0 +1,9 @@
+streamlit
+pandas
+scikit-learn
+plotly
+shap
+matplotlib
+twilio
+google-generativeai
+openpyxl
